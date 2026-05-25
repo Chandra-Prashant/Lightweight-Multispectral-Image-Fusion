@@ -1,0 +1,6 @@
+# Ignore all giant dataset folders and zips
+MSRS_Dataset/
+MSRS-main.zip
+*.zip
+.ipynb_checkpoints/
+
